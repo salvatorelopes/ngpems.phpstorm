@@ -1,10 +1,4 @@
 <application>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="48de842e-4865-4387-ba35-26be138da611" name="PHP-CLI" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/bin/php5-cgi" id="b355acba-8d00-49e4-ae02-0808c2eba67c" name="PHP-CGI" debugger_id="php.debugger.ZendDebugger" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP-CLI">

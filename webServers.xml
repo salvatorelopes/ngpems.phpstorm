@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="e6b15fbf-6207-4470-a3e7-a4d182cb56bc" name="videoslots" url="http://www.videoslots.loc">
-        <fileTransfer mountedRoot="/var/www/videoslots/project" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>

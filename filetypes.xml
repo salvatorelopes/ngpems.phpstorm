@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
-      <mapping pattern=".readme" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

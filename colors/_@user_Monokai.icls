@@ -4,7 +4,7 @@
     <property name="created">2017-05-08T08:06:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-08-10T09:58:02</property>
+    <property name="modified">2017-08-10T11:05:54</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <font>
@@ -853,8 +853,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="33b9de" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -10882,7 +10881,6 @@
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">

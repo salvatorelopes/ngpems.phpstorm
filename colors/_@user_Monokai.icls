@@ -4,7 +4,7 @@
     <property name="created">2017-05-08T08:06:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-08-10T11:05:54</property>
+    <property name="modified">2017-10-05T15:45:19</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <font>
@@ -401,17 +401,23 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="b2ae95" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="dfdbc0" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="7584a1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="75715e" />
+        <option name="FOREGROUND" value="87b69a" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -10830,7 +10836,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9b977c" />
+        <option name="FOREGROUND" value="b7b396" />
       </value>
     </option>
     <option name="PHP_ESCAPE_SEQUENCE">

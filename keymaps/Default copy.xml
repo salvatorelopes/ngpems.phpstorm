@@ -2,6 +2,9 @@
   <action id="ActivateRESTClientToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="ComposerToolsGroup">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="PhpGenerateConstructor">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>

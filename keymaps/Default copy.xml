@@ -5,4 +5,13 @@
   <action id="PhpGenerateConstructor">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift subtract" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift divide" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift multiply" />
+  </action>
 </keymap>

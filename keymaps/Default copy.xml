@@ -1,8 +1,0 @@
-<keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-</keymap>

@@ -8,6 +8,7 @@
       <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="selections" type="PLAIN_TEXT" />
       <mapping ext="bck" type="PLAIN_TEXT" />
+      <mapping ext="styl" type="SCSS" />
     </extensionMap>
   </component>
 </application>

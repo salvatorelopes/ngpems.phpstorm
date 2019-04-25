@@ -10,6 +10,10 @@
           <option name="url" value="http://git.ilcd.rocks" />
           <option name="userName" value="salvatore.lopes@gig.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="ssglopes" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>

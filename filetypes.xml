@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="edge" type="Blade" />
       <mapping ext="exjs" type="JavaScript" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="safeEmail," type="PLAIN_TEXT" />

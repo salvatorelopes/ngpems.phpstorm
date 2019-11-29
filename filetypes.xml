@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="edge" type="Blade" />
       <mapping ext="exjs" type="JavaScript" />
+      <mapping pattern=".nowgitignore" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="safeEmail," type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
